@@ -12,7 +12,7 @@
 <h2>📦 How to Use</h2>
 <ol>
   <li>Clone: <code>git clone https://github.com/sanika0522/mega-spam-classifier</code></li>
-  <li>Open <code>index.html</code> in your browser</li>
+  <li>Open <code>email_spam.html</code> in your browser</li>
 </ol>
 
 <h2>🛠️ Tech Stack</h2>
